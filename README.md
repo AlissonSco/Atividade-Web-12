@@ -18,7 +18,8 @@ Este projeto corresponde à **Atividade 12** da disciplina de **Desenvolvimento 
 As principais tags do **HTML5** utilizadas nesta atividade foram:  
 
 ```html
-<img>
+<table>, <thead>, <tbody>,
+<tfoot>, <tr>, <th>, <td> 
 ```
 ## 📂 Atividade
 
